@@ -1,5 +1,8 @@
 === Sticky CTA Widget ===
-Contributors: nestamedia
+
+Authors: Nestamedia Studios
+URL: https://nestamedia.com
+Description: Adds a stylish floating call-to-action bar at the bottom of the screen.
 Tags: cta, sticky, floating, widget, call to action
 Requires at least: 5.0
 Tested up to: 6.0
@@ -7,19 +10,18 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a stylish floating call-to-action bar at the bottom of the screen.
-
 == Description ==
 
-This plugin adds a beautiful sticky CTA widget at the bottom of your website with customizable buttons. Each button can have its own text, icon, color, and link URL.
+This plugin adds a beautiful sticky CTA widget at the bottom of your website with customizable buttons. Each button can have its own text, icon, colour, and link URL.
 
-Features:
-- Modern glass effect design
-- Fully responsive
-- Three customizable buttons
-- Font Awesome icons
-- Pulse animation on WhatsApp button
-- Admin settings panel
+== Features == 
+
+1. Customizable Buttons: Each button can have custom text, icon, colour, and URL
+2. Responsive Design: Works on all screen sizes
+3. Modern Glass Effect: Stylish appearance with blur effect
+4. Hover Animations: Buttons have smooth hover effects
+5. Pulse Animation: WhatsApp button has an attention-grabbing pulse effect
+6. Admin Panel: Easy configuration through WordPress settings
 
 == Installation ==
 
@@ -36,6 +38,7 @@ You can browse available icons at https://fontawesome.com/icons
 Go to Settings > Sticky CTA Widget and update the URL fields for each button.
 
 == Screenshots ==
+
 1. The sticky CTA widget displayed at the bottom of the screen.
 2. Admin settings panel for configuring the widget.
 
